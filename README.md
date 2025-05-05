@@ -8,18 +8,12 @@ Tenho muito interesse na área de software e no momento estou estudando de cada 
 - 🏃‍♂️ Atualmente trabalhando em projetos pessoais e acadêmicos, e fazendo projetos para a minha bolsa de pesquisa.
 - 📚 Estudando: Java, React, AWS, Azure entre outros.
 
----
-
-## 🛠️ Ferramentas e Tecnologias
-<p align="left">
+### 🛠️📖 Ferramentas e Tecnologias que estou estudando
+<p align="left">     
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</p>
-
-## 📖 Estou estudando
-<p align="left">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -32,7 +26,3 @@ Tenho muito interesse na área de software e no momento estou estudando de cada 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSchulzRs&layout=compact&langs_count=7&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api?username=ThiagoSchulzRs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
-
-![Snake animation](https://github.com/ThiagoSchulzRs/ThiagoSchulzRs/blob/output/github-contribution-grid-snake.svg)
-
-
