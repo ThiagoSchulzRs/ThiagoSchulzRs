@@ -32,3 +32,7 @@ Tenho muito interesse na área de software e no momento estou estudando de cada 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSchulzRs&layout=compact&langs_count=7&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api?username=ThiagoSchulzRs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
+
+![Snake animation](https://github.com/ThiagoSchulzRs/ThiagoSchulzRs/blob/output/github-contribution-grid-snake.svg)
+
+
